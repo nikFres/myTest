@@ -10,6 +10,8 @@ public class MyTest {
 		
 		//duo
 		
+		//tria
+		
 		System.out.println("ena");
 	}
 
