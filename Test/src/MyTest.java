@@ -6,6 +6,9 @@ public class MyTest {
 		
 		String b = "aaafsdf1";
 		
+		//ena
+		
+		
 		
 		System.out.println("ena");
 	}
