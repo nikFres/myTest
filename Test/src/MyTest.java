@@ -14,8 +14,6 @@ public class MyTest {
 		
 		//four
 		
-		//seven
-		
 		System.out.println("ena");
 	}
 
