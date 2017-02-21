@@ -32,6 +32,12 @@ public class Java8Tester {
 			
 	      greetService1.sayMessage("Mahesh");
 	      greetService2.sayMessage("Suresh");
+	      
+	      MathOperation multiplyOperation = (a,b) ->{
+	    	  return a*b;
+	      };
+	      
+	      System.out.println(multiplyOperation.operation(3,4));
 	   }
 		
 	   interface MathOperation {
