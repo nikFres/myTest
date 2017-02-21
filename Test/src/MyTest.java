@@ -16,6 +16,8 @@ public class MyTest {
 		
 		//other
 		
+		//else
+		
 		System.out.println("ena");
 	}
 
