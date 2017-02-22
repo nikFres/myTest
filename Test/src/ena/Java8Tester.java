@@ -3,6 +3,7 @@ package ena;
 public class Java8Tester {
 	
 	public static void main(String args[]){
+		//test
 	      Java8Tester tester = new Java8Tester();
 			
 	      //with type declaration
@@ -40,6 +41,7 @@ public class Java8Tester {
 	      
 	      System.out.println(multiplyOperation.operation(3,4));
 	      //end
+	      //kai allo
 	   }
 		
 	   interface MathOperation {
