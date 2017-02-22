@@ -5,7 +5,7 @@ public class Java8Tester {
 	public static void main(String args[]){
 
 		//test rebase 2
-		//test fetch
+		//test fetch 2
 
 		//aaaaaaaaaaaaaaaaaaaaaabccccccc wit ttttt
 		//test
