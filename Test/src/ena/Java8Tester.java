@@ -6,8 +6,9 @@ public class Java8Tester {
 		
 		//test
 		
+		//staged test
 	      Java8Tester tester = new Java8Tester();
-			
+		//test diff commits	
 	      //with type declaration
 	      MathOperation addition = (int a, int b) -> a + b;
 			
