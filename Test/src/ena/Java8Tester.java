@@ -5,6 +5,7 @@ public class Java8Tester {
 	public static void main(String args[]){
 		
 		//test
+		
 	      Java8Tester tester = new Java8Tester();
 			
 	      //with type declaration
